@@ -1,0 +1,114 @@
+D:\Work\MyMainProjects\TextEditor\bin\Debug\TextEditor.exe.config
+D:\Work\MyMainProjects\TextEditor\bin\Debug\TextEditor.exe
+D:\Work\MyMainProjects\TextEditor\bin\Debug\TextEditor.pdb
+D:\Work\MyMainProjects\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+D:\Work\MyMainProjects\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\Work\MyMainProjects\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\Work\MyMainProjects\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\Work\MyMainProjects\TextEditor\obj\Debug\TextEditor.exe
+D:\Work\MyMainProjects\TextEditor\obj\Debug\TextEditor.pdb
+D:\Work\MyMainProjects\TextEditor\obj\Debug\TextEditor.MainForm.resources
+C:\Users\vladl\source\repos\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\vladl\source\repos\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\vladl\source\repos\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\vladl\source\repos\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\Users\vladl\source\repos\TextEditor\obj\Debug\TextEditor.MainForm.resources
+C:\Users\vladl\source\repos\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\vladl\source\repos\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\vladl\source\repos\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\vladl\source\repos\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\vladl\source\repos\TextEditor\obj\Debug\TextEditor.pdb
+D:\Work\MyMainProjects\TextBox (Влад+мое)\bin\Debug\TextEditor.exe.config
+D:\Work\MyMainProjects\TextBox (Влад+мое)\bin\Debug\TextEditor.exe
+D:\Work\MyMainProjects\TextBox (Влад+мое)\bin\Debug\TextEditor.pdb
+D:\Work\MyMainProjects\TextBox (Влад+мое)\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+D:\Work\MyMainProjects\TextBox (Влад+мое)\obj\Debug\TextEditor.MainForm.resources
+D:\Work\MyMainProjects\TextBox (Влад+мое)\obj\Debug\TextEditor.Properties.Resources.resources
+D:\Work\MyMainProjects\TextBox (Влад+мое)\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\Work\MyMainProjects\TextBox (Влад+мое)\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\Work\MyMainProjects\TextBox (Влад+мое)\obj\Debug\TextEditor.exe
+D:\Work\MyMainProjects\TextBox (Влад+мое)\obj\Debug\TextEditor.pdb
+D:\Work\MyMainProjects\TextEditor (Team)\bin\Debug\TextEditor.exe.config
+D:\Work\MyMainProjects\TextEditor (Team)\bin\Debug\TextEditor.exe
+D:\Work\MyMainProjects\TextEditor (Team)\bin\Debug\TextEditor.pdb
+D:\Work\MyMainProjects\TextEditor (Team)\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+D:\Work\MyMainProjects\TextEditor (Team)\obj\Debug\TextEditor.MainForm.resources
+D:\Work\MyMainProjects\TextEditor (Team)\obj\Debug\TextEditor.Properties.Resources.resources
+D:\Work\MyMainProjects\TextEditor (Team)\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\Work\MyMainProjects\TextEditor (Team)\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\Work\MyMainProjects\TextEditor (Team)\obj\Debug\TextEditor.exe
+D:\Work\MyMainProjects\TextEditor (Team)\obj\Debug\TextEditor.pdb
+C:\Users\Ro\Desktop\Work\MyMainProjects\TextEditor (Team)\bin\Debug\TextEditor.exe.config
+C:\Users\Ro\Desktop\Work\MyMainProjects\TextEditor (Team)\bin\Debug\TextEditor.exe
+C:\Users\Ro\Desktop\Work\MyMainProjects\TextEditor (Team)\bin\Debug\TextEditor.pdb
+C:\Users\Ro\Desktop\Work\MyMainProjects\TextEditor (Team)\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\Users\Ro\Desktop\Work\MyMainProjects\TextEditor (Team)\obj\Debug\TextEditor.MainForm.resources
+C:\Users\Ro\Desktop\Work\MyMainProjects\TextEditor (Team)\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Ro\Desktop\Work\MyMainProjects\TextEditor (Team)\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\Ro\Desktop\Work\MyMainProjects\TextEditor (Team)\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Ro\Desktop\Work\MyMainProjects\TextEditor (Team)\obj\Debug\TextEditor.exe
+C:\Users\Ro\Desktop\Work\MyMainProjects\TextEditor (Team)\obj\Debug\TextEditor.pdb
+C:\Users\vladl\source\repos\TextEditor Роман\bin\Debug\TextEditor.exe.config
+C:\Users\vladl\source\repos\TextEditor Роман\bin\Debug\TextEditor.exe
+C:\Users\vladl\source\repos\TextEditor Роман\bin\Debug\TextEditor.pdb
+C:\Users\vladl\source\repos\TextEditor Роман\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\Users\vladl\source\repos\TextEditor Роман\obj\Debug\TextEditor.MainForm.resources
+C:\Users\vladl\source\repos\TextEditor Роман\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\vladl\source\repos\TextEditor Роман\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\vladl\source\repos\TextEditor Роман\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\vladl\source\repos\TextEditor Роман\obj\Debug\TextEditor.exe
+C:\Users\vladl\source\repos\TextEditor Роман\obj\Debug\TextEditor.pdb
+C:\Users\Nicholas\Desktop\TextEditor (почти готово)\bin\Debug\TextEditor.exe.config
+C:\Users\Nicholas\Desktop\TextEditor (почти готово)\bin\Debug\TextEditor.exe
+C:\Users\Nicholas\Desktop\TextEditor (почти готово)\bin\Debug\TextEditor.pdb
+C:\Users\Nicholas\Desktop\TextEditor (почти готово)\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\Users\Nicholas\Desktop\TextEditor (почти готово)\obj\Debug\TextEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicholas\Desktop\TextEditor (почти готово)\obj\Debug\TextEditor.MainForm.resources
+C:\Users\Nicholas\Desktop\TextEditor (почти готово)\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Nicholas\Desktop\TextEditor (почти готово)\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\Nicholas\Desktop\TextEditor (почти готово)\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\Desktop\TextEditor (почти готово)\obj\Debug\TextEditor.exe
+C:\Users\Nicholas\Desktop\TextEditor (почти готово)\obj\Debug\TextEditor.pdb
+C:\Users\Nicholas\Desktop\TextEditor (ГОТОВО)\bin\Debug\TextEditor.exe.config
+C:\Users\Nicholas\Desktop\TextEditor (ГОТОВО)\bin\Debug\TextEditor.exe
+C:\Users\Nicholas\Desktop\TextEditor (ГОТОВО)\bin\Debug\TextEditor.pdb
+C:\Users\Nicholas\Desktop\TextEditor (ГОТОВО)\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\Users\Nicholas\Desktop\TextEditor (ГОТОВО)\obj\Debug\TextEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicholas\Desktop\TextEditor (ГОТОВО)\obj\Debug\TextEditor.MainForm.resources
+C:\Users\Nicholas\Desktop\TextEditor (ГОТОВО)\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Nicholas\Desktop\TextEditor (ГОТОВО)\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\Nicholas\Desktop\TextEditor (ГОТОВО)\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\Desktop\TextEditor (ГОТОВО)\obj\Debug\TextEditor.exe
+C:\Users\Nicholas\Desktop\TextEditor (ГОТОВО)\obj\Debug\TextEditor.pdb
+C:\Users\vladl\source\repos\TextEditor (почти 2.0 ГОТОВО)\bin\Debug\TextEditor.exe.config
+C:\Users\vladl\source\repos\TextEditor (почти 2.0 ГОТОВО)\bin\Debug\TextEditor.exe
+C:\Users\vladl\source\repos\TextEditor (почти 2.0 ГОТОВО)\bin\Debug\TextEditor.pdb
+C:\Users\vladl\source\repos\TextEditor (почти 2.0 ГОТОВО)\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\Users\vladl\source\repos\TextEditor (почти 2.0 ГОТОВО)\obj\Debug\TextEditor.MainForm.resources
+C:\Users\vladl\source\repos\TextEditor (почти 2.0 ГОТОВО)\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\vladl\source\repos\TextEditor (почти 2.0 ГОТОВО)\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\vladl\source\repos\TextEditor (почти 2.0 ГОТОВО)\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\vladl\source\repos\TextEditor (почти 2.0 ГОТОВО)\obj\Debug\TextEditor.exe
+C:\Users\vladl\source\repos\TextEditor (почти 2.0 ГОТОВО)\obj\Debug\TextEditor.pdb
+C:\Users\Nicholas\Desktop\TextEditor (Team)\bin\Debug\TextEditor.exe.config
+C:\Users\Nicholas\Desktop\TextEditor (Team)\bin\Debug\TextEditor.exe
+C:\Users\Nicholas\Desktop\TextEditor (Team)\bin\Debug\TextEditor.pdb
+C:\Users\Nicholas\Desktop\TextEditor (Team)\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\Users\Nicholas\Desktop\TextEditor (Team)\obj\Debug\TextEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicholas\Desktop\TextEditor (Team)\obj\Debug\TextEditor.MainForm.resources
+C:\Users\Nicholas\Desktop\TextEditor (Team)\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Nicholas\Desktop\TextEditor (Team)\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\Nicholas\Desktop\TextEditor (Team)\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\Desktop\TextEditor (Team)\obj\Debug\TextEditor.exe
+C:\Users\Nicholas\Desktop\TextEditor (Team)\obj\Debug\TextEditor.pdb
+C:\Users\Nicholas\Desktop\TextEditor (Final)\bin\Debug\TextEditor.exe.config
+C:\Users\Nicholas\Desktop\TextEditor (Final)\bin\Debug\TextEditor.exe
+C:\Users\Nicholas\Desktop\TextEditor (Final)\bin\Debug\TextEditor.pdb
+C:\Users\Nicholas\Desktop\TextEditor (Final)\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\Users\Nicholas\Desktop\TextEditor (Final)\obj\Debug\TextEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicholas\Desktop\TextEditor (Final)\obj\Debug\TextEditor.MainForm.resources
+C:\Users\Nicholas\Desktop\TextEditor (Final)\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Nicholas\Desktop\TextEditor (Final)\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\Nicholas\Desktop\TextEditor (Final)\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\Desktop\TextEditor (Final)\obj\Debug\TextEditor.exe
+C:\Users\Nicholas\Desktop\TextEditor (Final)\obj\Debug\TextEditor.pdb

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -11,52 +12,84 @@ namespace TextEditor
     public class Menu_File
     {
         private static string path = "";
-        public static void Open(TextBox textBox)
+
+        public static void SetPath(string _path)
+        {
+            path = _path;
+        }
+
+        public static string getPath()
+        {
+            return path;
+        }
+        public static void Open(RichTextBox textBox, Label currentFile)
         {
             OpenFileDialog openFileDialog = new OpenFileDialog();
-            openFileDialog.Filter = "Text Files (*.txt)|*.txt";
+            openFileDialog.Filter = "RTF (*.rtf)|*.rtf|Text Files (*.txt)|*.txt";
             if (openFileDialog.ShowDialog() == DialogResult.OK)
             {
                 path = openFileDialog.FileName;
-
-                using(StreamReader reader=new StreamReader(openFileDialog.FileName)) 
-                { 
-                    string text = reader.ReadToEnd();
-                    textBox.Text = text;
+                if (path.EndsWith("txt"))
+                {
+                    using (StreamReader reader = new StreamReader(path))
+                    {
+                        textBox.Text = reader.ReadToEnd();
+                    }
                 }
-                
+                else
+                {
+                    textBox.LoadFile(path);
+                }
+                currentFile.Text = openFileDialog.FileName;
             }
         }
 
-        public static void Save(TextBox textBox)
+        public static void Save(RichTextBox textBox, Label currentFile)
         {
             if (path != "")
             {
-                using (StreamWriter writer = new StreamWriter(path))
+                if (path.EndsWith("txt"))
                 {
-                    writer.WriteLine(textBox.Text);
+                    using(StreamWriter writer=new StreamWriter(path))
+                    {
+                        writer.WriteLine(textBox.Text);
+                    }
                 }
-                MessageBox.Show("Файл успешно сохранен.");
+                else
+                {
+                    textBox.SaveFile(path);
+                }
+                MessageBox.Show("Файл успешно сохранен.", "Уведомление");
             }
             else
             {
-                SaveAs(textBox);
+                SaveAs(textBox, currentFile);
             }
         }
-        public static void SaveAs(TextBox textBox)
+        public static void SaveAs(RichTextBox textBox, Label currentFile)
         {
             SaveFileDialog saveFileDialog = new SaveFileDialog();
-            saveFileDialog.Filter = "Text Files (*.txt)|*.txt";
+            saveFileDialog.Filter = "RTF (*.rtf)|*.rtf|Text Files (*.txt)|*.txt";
             if (saveFileDialog.ShowDialog() == DialogResult.OK)
             {
-                path=saveFileDialog.FileName;
-                using (StreamWriter writer = new StreamWriter(path))
+                path = saveFileDialog.FileName;
+
+                if (path.EndsWith("txt"))
                 {
-                    writer.Write(textBox.Text);
+                    using (StreamWriter writer = new StreamWriter(path, true))
+                    {
+                        writer.WriteLine(textBox.Text);
+                    }
                 }
-                MessageBox.Show("Файл успешно сохранен.");
+                else
+                {
+                    textBox.SaveFile(path);
+                }
+
+                MessageBox.Show("Файл успешно сохранен.", "Уведомление");
+                currentFile.Text = path;
             }
-           
+
         }
         public static void NewWindow()
         {

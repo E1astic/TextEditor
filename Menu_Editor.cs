@@ -9,47 +9,102 @@ using System.Windows.Forms;
 
 namespace TextEditor
 {
-    public class Menu_Editor
-    {
-        private static Font font;
-        private static int size;
-        private static Color color;
-        FontStyle style;  //жирный, курсив и тд
-        private static ContentAlignment textAlign;
-        TextBox textBox;
-       
+	public static class Menu_Editor
+	{
+		private static Font selectedFont = null;           // хранение выбранного шрифта
+		private static Color selectedColor = Color.Black;  // хранение выбранного цвета
 
-        public Menu_Editor(TextBox textBox)
-        {            
-            this.textBox = textBox;
-        }
+		public static Font GetFont()
+		{
+			return selectedFont;
+		}
 
-        
-        public static void setFont(Font _font)   // устанавливаем шрифт
-        {
-            
-        }
-        public static void setSize(int _size)   // устанавливаем размер шрифта
-        {
-            
-        }
-        public static void setColor(Color _color)   // устанавливаем цвет
-        {
+		public static Color GetColor() 
+		{
+			return selectedColor;
+		}
 
-        }
-        public static void setStyle()   // устанавливаем стиль
-        {
+		public static void ChangeFont(RichTextBox richTextBox)
+		{
+			FontDialog fontDialog = new FontDialog();
+			Font currentFont = richTextBox.SelectionFont;
 
-        }
-        public static void setAlignment()  // устанавливаем выравнивание
-        {
+			fontDialog.Font = currentFont;
 
-        }
+			if (fontDialog.ShowDialog() == DialogResult.OK)
+			{
+				if (richTextBox.SelectionLength > 0)
+				{
+					richTextBox.SelectionFont = fontDialog.Font;
+				}
+				else
+				{
+					richTextBox.Font = fontDialog.Font;
+				}
 
-        public static void setAllParametres()   // применяем все заданные параметры к переданному объекту
-        {
-            
-        }
-        
-    }
+				selectedFont = fontDialog.Font;
+			}
+		}
+
+		public static void ChangeColor(RichTextBox richTextBox)
+		{
+			ColorDialog colorDialog = new ColorDialog();
+
+			if (richTextBox.SelectionLength > 0)
+			{
+				colorDialog.Color = richTextBox.SelectionColor;
+			}
+			else
+			{
+				colorDialog.Color = richTextBox.ForeColor;
+			}
+
+			if (colorDialog.ShowDialog() == DialogResult.OK)
+			{
+				if (richTextBox.SelectionLength > 0)
+				{
+					richTextBox.SelectionColor = colorDialog.Color;
+				}
+				else
+				{
+					richTextBox.ForeColor = colorDialog.Color;
+				}
+
+				selectedColor = colorDialog.Color;
+			}
+		}
+
+		public static void ChangeAlignmentLeft(RichTextBox richTextBox)
+		{
+			SetAlignment(richTextBox, HorizontalAlignment.Left);
+		}
+
+		public static void ChangeAlignmentCenter(RichTextBox richTextBox)
+		{
+			SetAlignment(richTextBox, HorizontalAlignment.Center);
+		}
+
+		public static void ChangeAlignmentRight(RichTextBox richTextBox)
+		{
+			SetAlignment(richTextBox, HorizontalAlignment.Right);
+		}
+
+		private static void SetAlignment(RichTextBox richTextBox, HorizontalAlignment alignment)
+		{
+			if (richTextBox.SelectionLength > 0)
+			{
+				int start = richTextBox.SelectionStart;
+				int end = richTextBox.SelectionStart + richTextBox.SelectionLength;
+
+                richTextBox.Select(start, end-start);
+                richTextBox.SelectionAlignment = alignment;
+                
+            }
+			else
+			{
+				richTextBox.SelectAll();
+				richTextBox.SelectionAlignment = alignment;
+			}
+		}
+	}
 }
