@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{985A640A-E303-4EB8-8971-0A8D1CA7D349}|TextEditor.csproj|C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985A640A-E303-4EB8-8971-0A8D1CA7D349}|TextEditor.csproj|solutionrelative:theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985A640A-E303-4EB8-8971-0A8D1CA7D349}|TextEditor.csproj|c:\\users\\vladl\\source\\repos\\texteditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0433\u043E\u0442\u043E\u0432\u043E)\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{985A640A-E303-4EB8-8971-0A8D1CA7D349}|TextEditor.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985A640A-E303-4EB8-8971-0A8D1CA7D349}|TextEditor.csproj|C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\findandreplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985A640A-E303-4EB8-8971-0A8D1CA7D349}|TextEditor.csproj|solutionrelative:findandreplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985A640A-E303-4EB8-8971-0A8D1CA7D349}|TextEditor.csproj|C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\menu_editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985A640A-E303-4EB8-8971-0A8D1CA7D349}|TextEditor.csproj|solutionrelative:menu_editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985A640A-E303-4EB8-8971-0A8D1CA7D349}|TextEditor.csproj|C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\menu_file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985A640A-E303-4EB8-8971-0A8D1CA7D349}|TextEditor.csproj|solutionrelative:menu_file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985A640A-E303-4EB8-8971-0A8D1CA7D349}|TextEditor.csproj|C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985A640A-E303-4EB8-8971-0A8D1CA7D349}|TextEditor.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:00:15.956Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAQwAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:00:15.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu_File.cs",
+              "DocumentMoniker": "C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\Menu_File.cs",
+              "RelativeDocumentMoniker": "Menu_File.cs",
+              "ToolTip": "C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\Menu_File.cs",
+              "RelativeToolTip": "Menu_File.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:00:15.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu_Editor.cs",
+              "DocumentMoniker": "C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\Menu_Editor.cs",
+              "RelativeDocumentMoniker": "Menu_Editor.cs",
+              "ToolTip": "C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\Menu_Editor.cs",
+              "RelativeToolTip": "Menu_Editor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:00:15.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\Theme.cs",
+              "RelativeDocumentMoniker": "Theme.cs",
+              "ToolTip": "C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\Theme.cs",
+              "RelativeToolTip": "Theme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:00:15.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FindAndReplace.cs",
+              "DocumentMoniker": "C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\FindAndReplace.cs",
+              "RelativeDocumentMoniker": "FindAndReplace.cs",
+              "ToolTip": "C:\\Users\\vladl\\source\\repos\\TextEditor (\u043F\u043E\u0447\u0442\u0438 2.0 \u0413\u041E\u0422\u041E\u0412\u041E)\\FindAndReplace.cs",
+              "RelativeToolTip": "FindAndReplace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:00:15.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
